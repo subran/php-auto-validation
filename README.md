@@ -5,6 +5,6 @@ Edit your composer.json file to include the following:
 
     {
        "require": {
-           "riosis/class.autovalidate.php": "dev-master"
+           "riosis/php-auto-validation": "dev-master"
        }
     }
