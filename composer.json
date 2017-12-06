@@ -16,7 +16,7 @@
         "php": ">=4"
     },
     "autoload": {
-        "classmap": ["riosis/php-auto-validation/src/class-auto-validate.php"]
+        "classmap": ["riosis/php-auto-validation/src/class.autovalidate.php"]
     }
 
 }
