@@ -1,0 +1,23 @@
+{
+    "name": "subran/class.auto-validation.php",
+    "description": "This PHP class validate diffrent data type automatically.",
+    "type": "library",
+    "homepage":"http://www.riosis.com/",
+    "keywords": ["validation", "auto-validation"],
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "subranmt",
+            "email": "subranmt@riosis.com"
+        }
+    ],
+    "support":{
+        "email":"subranmt@gmail.com"
+    },
+    "require": {
+        "php": ">=4"
+    },
+    "autoload": {
+        "classmap": ["src/class.auto-validation.php"]
+    }
+}
